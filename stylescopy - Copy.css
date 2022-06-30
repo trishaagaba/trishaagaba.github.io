@@ -1,0 +1,53 @@
+.me {
+    background-color: gray;
+    width: 200px;
+    height: 215px;
+    padding: 50px;
+    margin-left: 0px;
+    margin-right: 100px;
+    float: left;
+}
+.me:hover, .hobbies:hover, .educ:hover, .contact:hover {
+    background-color: red;
+    
+ }
+
+.educ {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+
+    margin-left: 300px;
+    margin-right: 50px;
+    
+
+}
+
+.hobbies {
+    background-color: rgb(109, 109, 243);
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    margin-left: 0px;
+    margin-right: 100px;
+    margin-top: 00px;
+    float: left;
+}
+
+.contact{
+    background-color: coral;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    margin-left: 600px;
+    margin-right: 0px;
+
+
+}
+
+.img {
+   
+    margin-right: 0px;
+    margin-left: 600px;
+}
